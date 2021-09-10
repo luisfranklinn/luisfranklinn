@@ -1,4 +1,4 @@
-## Opa, tudo bem?! Me chamo Luis Franklin e sejam bem-vindos ao meu perfil
+## Opa, beleza? Me chamo Luis Franklin e sejam bem-vindos ao meu perfil!!
 
  <div>
   <a href="https://github.com/luisfranklinn">

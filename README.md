@@ -1,5 +1,5 @@
 ## Opa, beleza? Me chamo Luis Franklin e sejam bem-vindos ao meu perfil!!
-## Python Developer | Data Scientist Aspiring 
+### Python Developer | Tester at GREat
 
  <div>
   <a href="https://github.com/luisfranklinn">

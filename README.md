@@ -1,13 +1,13 @@
 <h1 align="center">Hey, i'm Luis Franklin, and welcome to my Profile  👨‍💻</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Tester;Machine+Learning;Hackaton+Inovando%20+UFC+Winner;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Data+Scientist;Machine+Learning;Hackaton+Inovando%20+UFC+Winner;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
 ##
 <h3 align="center">📋 About me</h3>
 
-- 🖥️ `Tester - Intern` at Grupo de Redes de Computadores, Engenharia de Software e Sistemas (GREat)
+- 🖥️ `Data Scientist - Intern` at Grupo de Redes de Computadores, Engenharia de Software e Sistemas (GREat)
 - 🏆 `Hackaton Inovando UFC` Winner 2022.1
 - 👨‍🎓 `Software Engineering Student` at `Universidade Federal do Ceará`.
 - 📚  Always `learning new things`

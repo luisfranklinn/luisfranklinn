@@ -74,6 +74,4 @@
       <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 </p>
  
-##
 
-![github_graph](https://activity-graph.herokuapp.com/graph?username=luisfranklinn&theme=react-dark)

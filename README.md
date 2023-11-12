@@ -7,7 +7,8 @@
 ##
 <h3 align="center">📋 About me</h3>
 
-- 🖥️ `Data Scientist - Intern` at Grupo de Redes de Computadores, Engenharia de Software e Sistemas (GREat)
+- 🖥️ `Data Scientist` at Grupo de Redes de Computadores, Engenharia de Software e Sistemas (GREat)
+- 🖥️ `Machine Learnin Developer` at Laborátorio de Tecnologias Inovadoras (LTI) for Cimentos Apodi
 - 🏆 `Hackaton Inovando UFC` Winner 2022.1
 - 👨‍🎓 `Software Engineering Student` at `Universidade Federal do Ceará`.
 - 📚  Always `learning new things`

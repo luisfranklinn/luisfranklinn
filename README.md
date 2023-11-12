@@ -7,8 +7,8 @@
 ##
 <h3 align="center">📋 About me</h3>
 
-- 🖥️ `Data Scientist` at Grupo de Redes de Computadores, Engenharia de Software e Sistemas (GREat)
 - 🖥️ `Machine Learnin Developer` at Laborátorio de Tecnologias Inovadoras (LTI) for Cimentos Apodi
+- 🖥️ `Data Scientist` at Grupo de Redes de Computadores, Engenharia de Software e Sistemas (GREat)
 - 🏆 `Hackaton Inovando UFC` Winner 2022.1
 - 👨‍🎓 `Software Engineering Student` at `Universidade Federal do Ceará`.
 - 📚  Always `learning new things`
@@ -70,9 +70,6 @@
 
    <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/luisfranklinn/">
       <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-
-   <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/luisfranklinn">
-      <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 </p>
  
 

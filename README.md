@@ -7,7 +7,7 @@
 ##
 <h3 align="center">📋 About me</h3>
 
-- 🖥️ `Machine Learnin Developer` at Laborátorio de Tecnologias Inovadoras (LTI) for Cimentos Apodi
+- 🖥️ `Machine Learning Developer` at Laborátorio de Tecnologias Inovadoras (LTI) for Cimentos Apodi
 - 🖥️ `Data Scientist` at Grupo de Redes de Computadores, Engenharia de Software e Sistemas (GREat)
 - 🏆 `Hackaton Inovando UFC` Winner 2022.1
 - 👨‍🎓 `Software Engineering Student` at `Universidade Federal do Ceará`.

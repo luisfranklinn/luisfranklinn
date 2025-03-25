@@ -1,16 +1,15 @@
 <h1 align="center">Hey, i'm Luis Franklin, and welcome to my profile  👨‍💻</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Data+Scientist;Machine+Learning;Hackaton+Inovando%20+UFC+Winner;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Data+Science;Machine+Learning;Computer+Vision&center=true&width=500&height=50"></a>
 </p>
 
 
 ##
 <h3 align="center">📋 About me</h3>
 
-- 🖥️ `Machine Learning Developer` at Artemis - AI Solutions
-- 🏆 `Hackaton Inovando UFC` Winner 2022.1
-- 👨‍🎓 `Software Engineering Student` at `Universidade Federal do Ceará`.
-- 📚  Always `learning new things`
+- 🖥️ `Machine Learning Developer` at `Artemis - AI Solutions`
+- 👨‍🎓 `Software Engineer Graduated` from the `Federal University of Ceará`
+- 👨‍🎓 `Master's student in Computer Science` at the `State University of Ceará`
 
 ##
 <h3 align="center">🖥️ Languages and Tools</h3>
@@ -20,19 +19,6 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
     alt="python" width="40" height="40" /> </a> 
  
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java" width="40" height="40" />  </a>   
- 
-<a target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> 
- 
-<a target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
-      alt="cplusplus" width="40" height="40" /> </a> 
-  
- 
 <a target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
       alt="vscode" width="40" height="40" /> </a>
@@ -40,14 +26,6 @@
 <a target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
       alt="git" width="40" height="40" /> </a>
- 
-<a target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" 
-       alt="github" width="40" height="40" /> </a> 
- 
-<a target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"
-    alt="gitlab" width="40" height="40" /> </a> 
  
 <a target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" 
